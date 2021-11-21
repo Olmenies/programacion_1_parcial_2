@@ -1,0 +1,10 @@
+1001;A;Paul Atreides;10/10/2021;
+1002;A;Leto Atreides;10/10/2021;
+1003;A;Duncan Idaho;10/10/2021;
+1004;A;Liet Kynes;10/10/2021;
+1005;A;Chani;10/10/2021;
+1006;A;Stiglar;10/10/2021;
+1007;A;Vladimir Harkonnen;10/10/2021;
+1008;A;Feyth-Rautha Harkonnen;10/10/2021;
+1009;A;Gurney Halleck;10/10/2021;
+1010;A;Rakan Harkonnen;10/10/2021;
